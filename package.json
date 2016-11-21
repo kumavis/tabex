@@ -18,16 +18,16 @@
     "test": "make test"
   },
   "devDependencies": {
-    "browserify": "^10.2.1",
+    "browserify": "^13.1.1",
     "uglifyjs": "^2.4.10",
-    "chai": "^2.3.0",
-    "eslint": "0.18.0",
+    "chai": "^3.5.0",
+    "eslint": "3.10.2",
     "eslint-plugin-nodeca": "^1.0.3",
-    "mocha": "^2.2.5",
+    "mocha": "^3.1.2",
     "mocha-browser": "^0.2.0",
-    "phantomjs": "^1.9.17",
-    "autoprefixer-stylus": "^0.7.0",
+    "phantomjs": "^2.1.7",
+    "autoprefixer-stylus": "^0.11.0",
     "jade": "^1.10.0",
-    "stylus": "^0.51.1"
+    "stylus": "^0.54.5"
   }
 }
